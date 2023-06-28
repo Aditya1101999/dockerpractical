@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "DockerPractical",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../../Downloads/techworld-js-docker-demo-app-master/app/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DockerPractical"
+	}
+}
