@@ -1,9 +1,9 @@
 version: "3"
 services:
-  # my-app:
-  # image: ${docker-registry}/my-app:1.0
-  # ports:
-  # - 3000:3000
+  dockerpractical:
+    image: 103066311787.dkr.ecr.eu-north-1.amazonaws.com/dockerpractical:1.0
+    ports:
+     - 3000:3000
   mongodb:
     image: mongo
     ports:
